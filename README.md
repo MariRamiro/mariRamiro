@@ -27,7 +27,7 @@ Sou entusiasta de tecnologia, apaixonada por resolver problemas e criar soluçõ
 <code><img alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></code>
 <code><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></code>
 <code><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></code>
-
+<code><img alt="Terminal" width="30px" src="https://github.com/MariRamiro/mariRamiro/assets/123269798/3a81bc9c-ad47-4b26-b0c1-a0e5b291e97f" /></code>
 
 <picture align="left">
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">

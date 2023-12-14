@@ -1,3 +1,40 @@
 # mariRamiro
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-genvpa)
+👋 Olá, eu sou a **Mari**!
+Sou entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções inovadoras.👩💻 Sou formada em jornalismo e, atualmente, estou focada em Desenvolvimento Web.😎 
+
+<picture align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/mariana-ramiro-de-melo/">
+   <img alt="LinkedIN" width="35px" src="https://github.com/MariRamiro/mariRamiro/assets/123269798/b225fdf9-f4f8-4fc8-9a2c-ce63e82c6782">
+  </a>
+</picture
+<picture align="left">
+  <a target="_blank" href="mailto:marianaramiroof@gmail.com">
+    <img alt="E-mail" width="35px" src="https://github.com/MariRamiro/mariRamiro/assets/123269798/127bab60-cc76-43c2-98cb-2a30fb6769f6" />
+  </a>
+</picture>
+<br></br>
+
+🚀Linguagens e Ferramentas:
+ 
+<code><img alt="Javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></code>
+<code><img alt="Typescript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></code>
+<code><img alt="NodeJs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></code>
+<code><img alt="ExpressJs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /></code>
+<code><img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></code>
+<code><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></code>
+<code><img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
+<code><img alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></code>
+<code><img alt="HTML" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></code>
+<code><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></code>
+
+
+<picture align="left">
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Linguagens mais utilizadas" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariRamiro&layout=compact" />
+  </a>
+</picture>
+
+
+</body>
+</html>

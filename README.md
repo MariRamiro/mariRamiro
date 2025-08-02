@@ -1,7 +1,7 @@
 # mariRamiro
 
 👋 Olá, eu sou a **Mari**!
-Entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções inovadoras.👩💻 Sou formada em jornalismo e, atualmente, estou focada em Desenvolvimento Web.😎 
+Entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções inovadoras.👩💻  
 
 <picture align="left">
   <a target="_blank" href="https://www.linkedin.com/in/mariana-ramiro-de-melo/">

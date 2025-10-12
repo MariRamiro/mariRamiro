@@ -1,7 +1,8 @@
 # mariRamiro
 
-👋 Olá, eu sou a **Mari**!
-Entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções inovadoras.👩💻  
+Olá, eu sou a **Mari**!
+
+Sou profissional com experiência em tecnologia e gestão de produtos digitais, com base como desenvolvedora backend e atuação como product manager júnior. Trabalhei com priorização de backlog, mapeamento de fluxos de uso, definição de requisitos e condução de rituais ágeis, sempre conectando necessidades do negócio, viabilidade técnica e experiência do usuário. Busco contribuir em projetos que unam inovação tecnológica e impacto positivo na vida das pessoas.
 
 <picture align="left">
   <a target="_blank" href="https://www.linkedin.com/in/mariana-ramiro-de-melo/">
@@ -16,8 +17,7 @@ Entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções i
 <br></br>
 
 🚀Linguagens e Ferramentas:
- 
-<code><img alt="CSS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
+
 <code><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></code>
 <code><img alt="ExpressJs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/></code>
 <code><img alt="Github" width="30px" src="https://github.com/MariRamiro/mariRamiro/assets/123269798/cf413517-b361-4f15-b8de-3f04bcb21321"/></code>

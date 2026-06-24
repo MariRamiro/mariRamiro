@@ -2,7 +2,9 @@
 
 Olá, eu sou a **Mari**!
 
-Sou profissional com experiência em tecnologia e gestão de produtos digitais, com base como desenvolvedora backend e atuação como product manager júnior. Trabalhei com priorização de backlog, mapeamento de fluxos de uso, definição de requisitos e condução de rituais ágeis, sempre conectando necessidades do negócio, viabilidade técnica e experiência do usuário. Busco contribuir em projetos que unam inovação tecnológica e impacto positivo na vida das pessoas.
+Profissional em transição para a área de Dados, com experiência em qualidade de IA, desenvolvimento de software 
+e produtos digitais. Atuo na análise de informações, avaliação de métricas, levantamento de requisitos e validação 
+de processos, transformando dados em insumos para tomada de decisão e melhoria contínua.
 
 <picture align="left">
   <a target="_blank" href="https://www.linkedin.com/in/mariana-ramiro-de-melo/">
